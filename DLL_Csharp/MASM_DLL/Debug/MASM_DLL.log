@@ -1,0 +1,7 @@
+﻿  Assembling MASM_Rotate.asm...
+MASM_Rotate.asm(16): warning A6004: procedure argument or local not referenced : hInstDLL
+MASM_Rotate.asm(16): warning A6004: procedure argument or local not referenced : reason
+MASM_Rotate.asm(16): warning A6004: procedure argument or local not referenced : reserved1
+     Creating library C:\Users\cezary\Desktop\STUDIA PROJEKTY\JA\Repo\DLL_Csharp\Debug\MASM_DLL.lib and object C:\Users\cezary\Desktop\STUDIA PROJEKTY\JA\Repo\DLL_Csharp\Debug\MASM_DLL.exp
+  MASM_DLL.vcxproj -> C:\Users\cezary\Desktop\STUDIA PROJEKTY\JA\Repo\DLL_Csharp\Debug\MASM_DLL.dll
+  MASM_DLL.vcxproj -> C:\Users\cezary\Desktop\STUDIA PROJEKTY\JA\Repo\DLL_Csharp\Debug\MASM_DLL.pdb (Partial PDB)

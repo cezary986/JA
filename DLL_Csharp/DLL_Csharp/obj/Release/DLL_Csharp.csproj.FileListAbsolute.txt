@@ -1,0 +1,4 @@
+C:\Users\cezary\Desktop\STUDIA PROJEKTY\JA\Repo\DLL_Csharp\DLL_Csharp\bin\Release\DLL_Csharp.dll
+C:\Users\cezary\Desktop\STUDIA PROJEKTY\JA\Repo\DLL_Csharp\DLL_Csharp\bin\Release\DLL_Csharp.pdb
+C:\Users\cezary\Desktop\STUDIA PROJEKTY\JA\Repo\DLL_Csharp\DLL_Csharp\obj\Release\DLL_Csharp.dll
+C:\Users\cezary\Desktop\STUDIA PROJEKTY\JA\Repo\DLL_Csharp\DLL_Csharp\obj\Release\DLL_Csharp.pdb

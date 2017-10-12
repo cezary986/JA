@@ -1,0 +1,5 @@
+C:\Users\cezary\Desktop\STUDIA PROJEKTY\JA\Repo\DLL_Csharp\DLL_Csharp\bin\Debug\DLL_Csharp.dll
+C:\Users\cezary\Desktop\STUDIA PROJEKTY\JA\Repo\DLL_Csharp\DLL_Csharp\bin\Debug\DLL_Csharp.pdb
+C:\Users\cezary\Desktop\STUDIA PROJEKTY\JA\Repo\DLL_Csharp\DLL_Csharp\obj\Debug\DLL_Csharp.dll
+C:\Users\cezary\Desktop\STUDIA PROJEKTY\JA\Repo\DLL_Csharp\DLL_Csharp\obj\Debug\DLL_Csharp.pdb
+C:\Users\cezary\Desktop\STUDIA PROJEKTY\JA\Repo\DLL_Csharp\DLL_Csharp\obj\Debug\DLL_Csharp.csprojResolveAssemblyReference.cache
